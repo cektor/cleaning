@@ -15,7 +15,7 @@ sudo apt install python3 -y
 
 ----------------------------------
 # Installation
-Install taskiller
+Install cleaning
 ```bash
 sudo git clone https://github.com/cektor/cleaning.git
 ```
