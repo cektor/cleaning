@@ -5,12 +5,12 @@ Install Git Clone and Python3
 
 Github Package Must Be Installed On Your Device.
 ```bash
-sudo apt install git  -y
+sudo apt install git -y
 ```
 
 Python3 Package Must Be Installed On Your Device.
 ```bash
-sudo apt install python3  -y
+sudo apt install python3 -y
 ```
 
 ----------------------------------
